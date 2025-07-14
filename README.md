@@ -24,8 +24,12 @@ To extract actionable business insights from the Bright CoffeeShop Sales dataset
 **Insights**
 
 * The three stores are contributing almost equally to the business total revenue. This suggest business operations and customer engagement are consistent across locations.
-* Coffee is the top-se ling category across all locations and tea is the second most popular product in overal suggests a diverse customer base with non-coffee drinkers.
-* Most transactions are small orders this can suggests high  number of customer prefer combo or multi-product purchases.
+* Coffee is the top-seling category across all locations by 38.63%, suggest it is a Core Business Drive.
+* Tea is the second most popular product in overal, contributes 28.11% in total sales.
+* Peak hours are 7–10 a.m., for all stores and theres a steep drop in sales after 10 a.m.
+* Evening is the weakest period across a l locations (only 17.3% of daily sales)
+* Sales dropped 7% from January to February can be due to post-holiday slowdown.
+* March–June: There is a strong growth, peaking in May across all locations higly likely due to seasonal change(winter season)
 
 **Reccomendations** 
 
@@ -33,4 +37,4 @@ To extract actionable business insights from the Bright CoffeeShop Sales dataset
 * Focus on Coffee: It's the most profitable category, ensure consistent stock and promotions.
 * Also mosst sales are being generated in the morning therefore more staff must be placed in the morning for quick service.
 * Afternoon sales drop sharply, especially for coffee and bakery. Light lunch combos or 50% discounted can be introduce during this time.
-* June sets a peak benchmark – use this data to predict July–Sept outcome.
+* May sets a peak benchmark – use this data to predict July–Sept outcome.
